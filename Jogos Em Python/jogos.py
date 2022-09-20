@@ -2,9 +2,9 @@ import forca
 import adivinhacao
 
 def escolhe_jogo():
-    print("*********************************")
+    print("*"*36)
     print("*******Escolha o seu jogo!*******")
-    print("*********************************")
+    print("*" * 36)
 
     print("(1) Forca (2) Adivinhação")
 

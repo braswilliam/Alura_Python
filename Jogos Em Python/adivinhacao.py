@@ -4,6 +4,7 @@ def jogar():
 
     print("*" * 40)
     print("Bem vindo ao jogo de Adivinhação!")
+    print('Tente adivinhar um número')
     print("*" * 40)
 
 
